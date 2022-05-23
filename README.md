@@ -1,2 +1,20 @@
-# certificados
-Certificados
+Certificados:
+  - Bachelor Degree, Industrial Engineering, USP
+  - Green Belt
+  - Data Science Academy - Introduction to Big Data
+  - Data Science Academy - Introduction to Data Science
+  - Data Science Academy - Power BI for Data Science (intro to R e SQL)
+  - Data Science Academy - Python for Data Analytics
+  - FreeCodeCamp - JavaScript Algorithms and Data Structures
+  - FreeCodeCamp -Responsive Web Design (HTML, CSS, Jquery, Bootstrap, SASS)
+  - IBM - Developing Cloud Apps with Node.js and React
+  - IBM - Developing Cloud Native Applications
+  - IBM - Getting Started with Git and GitHub
+  - IBM - Introduction do Web Development with HTML, CSS, JavaScript
+  - IBM - Introduction to Cloud Computing
+  - Kaggle - Intermediate Machine Learning
+  - Kaggle - Intro to Machine Learning
+  - Kaggle - Pandas (Python)
+  - Kaggle - Python
+  - Udemy - Android (mobile app development)
+  - Udemy - Flutter (mobile app development)
